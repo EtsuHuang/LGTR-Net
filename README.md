@@ -11,4 +11,4 @@ NEU-DET dataset:http://faculty.neu.edu.cn/songkechen/zh_CN/zhym/263269/list/inde
 
 GC10-DET dataset: https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Datasets.
 
-We sincerely thank previous researchers for their contributions in the dataset.
+We sincerely thank previous researchers for their contributions.
