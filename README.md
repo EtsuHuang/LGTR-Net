@@ -1,7 +1,7 @@
 # LGTR-Net
 This is a lightweight Gaber filter texture recognition network (LGTR-Net). 
 
-The core code including MGMs, TEF attention, LGTR-Net, and etc., and other compared methods will be open access after the article is accepted and published.
+The core code including MGMs, TEF attention, LGTR-Net, and etc. will be open access after the article is accepted and published.
 
 Since the SSDC-10 dataset involves corporate interests, we cannot fully open this part. The links to obtain other datasets are as follows:
 
