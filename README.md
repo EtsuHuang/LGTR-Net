@@ -3,7 +3,7 @@ This is a lightweight Gaber filter texture recognition network (LGTR-Net).
 
 The all code including MGMs, TEF attention, LGTR-Net, etc. will be open access after the article is accepted and published.
 
-Since the SSDC-10 dataset involves corporate interests, we cannot fully open this part. The links to obtain other datasets are as follows:
+Since the SSDC-10 dataset involves corporate interests, we cannot fully open this dataset. The links to obtain other datasets are as follows:
 
 XDD dataset:https://github.com/Fighter20092392/X-SDD-A-New-benchmark.
 
