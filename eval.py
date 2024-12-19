@@ -8,13 +8,7 @@ from classification import (Classification, cvtColor, letterbox_image,
 from utils.utils import letterbox_image
 from utils.utils_metrics import evaluteTop1_5
 
-#------------------------------------------------------#
-#   test_annotation_path    测试图片路径和标签
-#------------------------------------------------------#
 test_annotation_path    = 'sssc_10.txt'
-#------------------------------------------------------#
-#   metrics_out_path        指标保存的文件夹
-#------------------------------------------------------#
 metrics_out_path        = "metrics_out"
 
 class Eval_Classification(Classification):
