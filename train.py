@@ -27,7 +27,7 @@ if __name__ == "__main__":
     #   mobilenetv2、ghostnetv2、Lgtr_Net
     #   resnet18、resnet34、resnet50、resnet101、resnet152
     #------------------------------------------------------#
-    backbone        = "Lgtr_Netv1_test"
+    backbone        = "Lgtr_Netv1"
     pretrained      = False
     model_path      = ""
     Init_Epoch          = 0
