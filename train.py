@@ -23,10 +23,6 @@ if __name__ == "__main__":
     # classes_path    = 'model_data/cls_classes.txt'
     classes_path = 'model_data/sssc_10.txt'
     input_shape     = [224, 224]
-    #   所用模型种类：
-    #   mobilenetv2、ghostnetv2、Lgtr_Net
-    #   resnet18、resnet34、resnet50、resnet101、resnet152
-    #------------------------------------------------------#
     backbone        = "Lgtr_Netv1"
     pretrained      = False
     model_path      = ""
