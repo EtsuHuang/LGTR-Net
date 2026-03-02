@@ -34,7 +34,7 @@ def gabor_kernel(size, sigma, theta, Lambda, gamma):
     (y, x) = torch.meshgrid(
         torch.arange(-size // 2 + 1, size // 2 + 1),
         torch.arange(-size // 2 + 1, size // 2 + 1),
-        indexing='ij'  # 显式指定索引顺序
+        indexing='ij' 
     )
     x = x.float()
     y = y.float()
@@ -477,4 +477,5 @@ def Lgtr_Netv1(pretrained=False, progress=True, num_classes=1000):
     if num_classes != 1000:
         model.classifier = nn.Linear(model.output_channel, num_classes)
     return model
+
 
