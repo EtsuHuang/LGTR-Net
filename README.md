@@ -1,7 +1,11 @@
-# LGTR-Net
-This is a lightweight Gaber filter texture recognition network (LGTR-Net). 
+[Fig6-eps-converted-to.pdf](https://github.com/user-attachments/files/25677988/Fig6-eps-converted-to.pdf)# LGTR-Net
+This is a lightweight Gaber filter texture recognition network (LGTR-Net). The article has been accepted by Computers in Industry.
 
-The all code including MGMs, TEF attention, LGTR-Net, etc. will be open access after the article is accepted and published.
+The all code including MGMs, TEF attention, LGTR-Net, etc. have been open access.
+
+The figure below shows the comparison between this model and common classification models.
+
+
 
 Since the SSDC-10 dataset involves corporate interests, we cannot fully open this dataset. The links to obtain other datasets are as follows:
 
