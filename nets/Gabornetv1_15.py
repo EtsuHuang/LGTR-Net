@@ -397,7 +397,7 @@ def LGTRNetv1(**kwargs):
 if __name__ == "__main__":
     from torchsummary import summary
     from thop import clever_format, profile
-    # 需要使用device来指定网络在GPU还是CPU运行
+    ####
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = LGTRNetv1().to(device)
     summary(model, input_size=(3, 224, 224))
@@ -417,3 +417,4 @@ def Lgtr_Netv1_15(pretrained=False, progress=True, num_classes=1000):
     if num_classes != 1000:
         model.classifier = nn.Linear(model.output_channel, num_classes)
     return model
+
