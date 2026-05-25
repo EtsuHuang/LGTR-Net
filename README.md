@@ -1,4 +1,4 @@
-[Fig6-eps-converted-to.pdf](https://github.com/user-attachments/files/25677988/Fig6-eps-converted-to.pdf)# LGTR-Net
+# LGTR-Net
 This is a lightweight Gaber filter texture recognition network (LGTR-Net). The article has been accepted by Computers in Industry.
 
 The all code including MGMs, TEF attention, LGTR-Net, etc. have been open access.
